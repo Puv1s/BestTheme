@@ -1,6 +1,6 @@
 ## BestTheme for discord!
 ## Open the .css raw file, download, put into your theme folder and apply.
-#### Make your life much better with this theme that deletes all Maple's messages.
+#### Make your life much better with this theme that hides all maple's messages.
 ####They will all magically dissapear 
 
 ##Without theme 
