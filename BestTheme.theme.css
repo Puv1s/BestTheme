@@ -1,4 +1,8 @@
 //META{"name":"BestTheme","description":"Theme that will make your life better","author":"Pu","version":"1.1"}*//{}
 
-.message-group:not(.compact) .avatar-large[style*="108361894200397824"]{display:none !important;}
-	.message-group:not(.compact) .avatar-large[style*="108361894200397824"] ~ .comment{display:none !important;}
+.message-group:not(.compact) .avatar-large[style*="108361894200397824"]{
+	display:none !important;
+}
+	.message-group:not(.compact) .avatar-large[style*="108361894200397824"] ~ .comment{
+		display:none !important;
+}
