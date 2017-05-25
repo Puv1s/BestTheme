@@ -5,5 +5,6 @@
 
 ##Without theme 
 ![](http://i.imgur.com/RGlKUJZ.png)
+
 ##With the theme 
 ![](http://i.imgur.com/VRmq1mH.png)
