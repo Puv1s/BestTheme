@@ -1,4 +1,4 @@
-## BestTheme for discord! (<3 uri)
+## BestTheme for discord!
 ## Open the .css raw file, download, put into your theme folder and apply.
 #### Make your life much better with this theme that hides all maple's messages. (sorry for the blank dividers, this is best i can do rn)
 ####They will all magically disappear 
